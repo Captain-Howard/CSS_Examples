@@ -1,0 +1,65 @@
+body {
+	background: #f3f2f3;
+	color: #000000;
+	font-family: Trebuchet MS, Arial, Times New Roman;
+	font-size: 12px;
+}
+
+#wrapper {
+	background: #FFFFFF;
+	margin: 60px auto;
+	width: 900px;
+	height: 1024px;
+}
+
+#header {
+	background: dodgerblue;
+	height: 100px;
+	width: 900px;	
+}
+
+#navigation {
+	background: #333333;
+	width: 900px;
+	height: 20px;
+}
+
+#menu {
+	background: darkgrey;
+	float: left;
+	width: 200px;
+	height: 624px;
+}
+ 
+#content {
+	background: beige;
+    width: 900px;
+	height: 624px;
+}
+
+#footer {
+	background: cadetblue;
+    height: 20px;
+	width: 900px;
+}
+
+
+
+
+.header{
+    color: lightblue;
+    font-size: 90px;
+    text-align: center;
+}
+.footer{
+    text-align: right;   
+}
+a:link, a:visited{
+    color: aliceblue;
+}
+
+a:hover{
+    background: white;
+    color: orange;
+    font-size: 16px;
+}

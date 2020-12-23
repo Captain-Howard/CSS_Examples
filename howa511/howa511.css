@@ -1,0 +1,80 @@
+
+body {
+   background-color: "#eeebd2";
+   margin: 5px 5px 5px 5px;
+   }
+
+h1 {
+   color: "#eeebd2";
+   background-color: "#d8a29b";
+   font-family: "Book Antiqua", Times, serif;
+   border: thin groove #9baab2;
+}
+
+h2 {
+   color: "#8b007c";
+   font-family: "Book Antiqua", Times, serif;
+   border: thin groove "#8b007c";
+}
+
+h2.red {
+   color: red;
+   font-family: "Book Antiqua", Times, serif;
+   border: thin groove "#8b007c";
+}
+
+h3 {
+   font-family: "Book Antiqua", Times, serif;
+   color: "#8b007c";
+}
+
+em {
+   font-weight: bold;
+   font-style: italic;
+}
+
+hr {
+   margin-right: 10%;
+   margin-left: 10%;
+}
+
+p.link {
+   color: "#8b007c";
+   text-align: center;
+   font-family: "Lucida Casual", Times, serif;
+   font-weight: bold;
+   font-size: 18pt;
+   margin-left: 0%;
+}
+
+p {
+   font-family: "Bookman Old Style", Times, serif;
+   margin-left: 10%;
+   text-align: justify;
+}
+
+strong {
+   font-family: Arial, sans-serif;
+   font-size: 12pt;
+   color: red
+}
+
+th {
+   background-color: "#b2a474";
+   align: center;
+   color: #8b007c
+}
+
+table {
+      padding: 2pt 15pt 2pt 2pt;
+}
+
+td.firstcol {
+   background-color: "#00acac";
+   font-weight: bold;
+   text-align: center;
+}
+
+table.main {
+   padding: 0px 0px 0px 0px;
+} 
